@@ -1,0 +1,53 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.opensdf
+*.sdf
+*.VC.db
+*.vscode/
+*.sln
+*.log
+*.tmp
+*.vs/
+.vs/
+.vscode/
+.vsconfig
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Visual Studio Code
+.history/
+.vscode/
+.settings/
+
+# Packaged builds
+*.pdb
+*.exe
+*.dll
+*.lib
+*.app
+*.ipa
+
+# Optional: Ignore crash reports and autosaves
+CrashReportClient/
+Autosaves/
+
+# Optional: Ignore config backups
+ConfigBackup/
+
+# Optional: Ignore plugin binaries
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+Plugins/*/Saved/
+
+# Optional: Ignore build artifacts
+Build/
